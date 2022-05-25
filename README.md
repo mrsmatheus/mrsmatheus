@@ -1,7 +1,7 @@
 ### Olá, me chamo Matheus Rodrigues!
 
-- 🔭 Estou praticando desenvolvimento Front-end
-- 🌱 Estudando JavaScript & ReactJs
+- 🔭 Estou praticando desenvolvimento web
+- 🌱 Estudando Javascript & React
 
 <div align="center">
   <a href="https://github.com/mrsmatheus">
